@@ -1,2 +1,2 @@
 # GCAU-Net
-The code for "Global context joint attention model for liver and tumor segmentation"
+The code for "GCHA-Net: Global context and hybrid attention network for automatic liver segmentation"
