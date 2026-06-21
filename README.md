@@ -6,7 +6,7 @@ This code is for the paper title 'GCHA-Net: Global context and hybrid attention 
 # dataset 
 LiTS2017：https://competitions.codalab.org/competitions/17094#participate
 
-3D-IRCADb 01：https://www.ircad.fr/research/3d-ircadb-01/
+3D-IRCADb 01：[https://www.ircad.fr/research/3d-ircadb-01/](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)
 
 
 
